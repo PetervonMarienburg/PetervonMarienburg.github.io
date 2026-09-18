@@ -1,0 +1,4 @@
+---
+layout: default
+---
+<div class="reading"><a class="back" href="{{ '/' | relative_url }}">Wszystkie artykuły</a><article><header class="article-header">{% if page.category %}<div class="eyebrow">{{ page.category | escape }}</div>{% endif %}<h1>{{ page.title | escape }}</h1><div class="meta"><span>{{ page.author | default: site.author | escape }}</span><span>Publikacja: <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%d.%m.%Y' }}</time></span>{% if page.updated %}<span>Aktualizacja: <time datetime="{{ page.updated | date: '%Y-%m-%d' }}">{{ page.updated | date: '%d.%m.%Y' }}</time></span>{% endif %}</div></header>{% if page.abstract %}<section class="abstract" aria-label="Streszczenie"><span class="label">Streszczenie</span><p>{{ page.abstract | escape }}</p></section>{% endif %}<div class="prose">{{ content }}</div></article></div>

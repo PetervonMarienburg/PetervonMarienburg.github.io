@@ -1,0 +1,5 @@
+---
+layout: default
+title: Artykuły
+---
+<section class="intro"><div class="eyebrow">Peter von Marienburg</div><h1>W kręgu średniowiecza</h1><p>Studia i szkice o dawnych księgach, kulturze materialnej i rekonstrukcji historycznej.</p></section><section aria-labelledby="artykuly"><div class="list-heading"><h2 id="artykuly">Artykuły</h2></div>{% for post in site.posts %}<article class="entry"><div class="meta"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d.%m.%Y' }}</time>{% if post.category %}<br><span class="label">{{ post.category | escape }}</span>{% endif %}</div><div><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3><p>{{ post.abstract | default: post.excerpt | strip_html | escape }}</p><a class="read" href="{{ post.url | relative_url }}" aria-label="Czytaj: {{ post.title | escape }}">Czytaj artykuł</a></div></article>{% else %}<p class="notice">Pierwsze artykuły pojawią się tutaj wkrótce.</p>{% endfor %}</section>

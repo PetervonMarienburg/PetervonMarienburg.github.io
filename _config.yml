@@ -1,0 +1,16 @@
+title: Peter von Marienburg
+description: Artykuły o średniowieczu, rękopisach i rekonstrukcji historycznej.
+author: Peter von Marienburg
+url: "https://petervonmarienburg.github.io"
+baseurl: ""
+lang: pl
+timezone: Europe/Warsaw
+markdown: kramdown
+permalink: /artykuly/:title/
+exclude: [README.md, SZABLON-ARTYKULU.md, Gemfile, Gemfile.lock]
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: article
