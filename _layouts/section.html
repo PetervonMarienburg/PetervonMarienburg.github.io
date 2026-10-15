@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<section class="intro"><a class="back" href="{{ '/' | relative_url }}">← Strona główna</a><h1>{{ page.title | escape }}</h1><p>{{ page.description | escape }}</p></section>
+{% assign entries = site.posts | where: "section", page.section %}
+<section aria-labelledby="wpisy"><div class="list-heading"><h2 id="wpisy">Artykuły</h2><span>Liczba wpisów: {{ entries.size }}</span></div>
+{% for post in entries %}<article class="entry"><div class="meta"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d.%m.%Y' }}</time>{% if post.category %}<br><span class="label">{{ post.category | escape }}</span>{% endif %}</div><div><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3><p>{{ post.abstract | default: post.excerpt | strip_html | truncatewords: 65 | escape }}</p><a class="read" href="{{ post.url | relative_url }}" aria-label="Czytaj: {{ post.title | escape }}">Czytaj artykuł →</a></div></article>{% else %}<p class="notice">Pierwsze artykuły pojawią się tutaj wkrótce.</p>{% endfor %}</section>

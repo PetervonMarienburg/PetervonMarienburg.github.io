@@ -1,6 +1,7 @@
 ---
 title: "Tytuł artykułu"
 date: 2026-09-18
+section: rekonstrukcja # wybierz: rekonstrukcja albo skryptorium
 category: "Kultura materialna"
 author: "Peter von Marienburg"
 abstract: "Krótkie streszczenie: temat, zakres i najważniejszy wniosek."
