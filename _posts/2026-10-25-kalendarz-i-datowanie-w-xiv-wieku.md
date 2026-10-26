@@ -8,6 +8,7 @@ category: "Chronologia i kancelaria"
 author: "Peter von Marienburg"
 abstract: "Czy średniowieczny pisarz zapisywał 12 sierpnia, czy raczej «we wtorek po św. Wawrzyńcu»? XIV-wieczne dokumenty krzyżackie pokazują, jak święta, dni tygodnia i numeracja dni miesiąca współistniały w praktyce kancelaryjnej. Artykuł objaśnia również kalendarz zakonny, rachubę juliańską i sposoby przeliczania dawnych dat."
 permalink: /artykuly/kalendarz-i-datowanie-w-xiv-wieku/
+published: false
 ---
 
 ## List z sierpnia 1393 roku
