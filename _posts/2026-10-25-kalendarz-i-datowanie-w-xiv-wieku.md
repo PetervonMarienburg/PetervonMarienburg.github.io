@@ -1,169 +1,61 @@
 ---
 layout: article
 title: "„We wtorek po św. Wawrzyńcu”. Kalendarz i sposoby określania dat w XIV wieku"
-subtitle: "Od rytmu świąt do rachuby dni — ze szczególnym uwzględnieniem państwa zakonu krzyżackiego w Prusach."
+subtitle: "O czasie, który odmierzano nie jednym, lecz kilkoma kalendarzowymi językami — na przykładach z XIV-wiecznych Prus."
 date: 2026-10-25 20:00:00 +0100
+updated: 2026-10-26
 section: skryptorium
 category: "Chronologia i kancelaria"
 author: "Peter von Marienburg"
-abstract: "Czy średniowieczny pisarz zapisywał 12 sierpnia, czy raczej «we wtorek po św. Wawrzyńcu»? XIV-wieczne dokumenty krzyżackie pokazują, jak święta, dni tygodnia i numeracja dni miesiąca współistniały w praktyce kancelaryjnej. Artykuł objaśnia również kalendarz zakonny, rachubę juliańską i sposoby przeliczania dawnych dat."
+abstract: "Jak odczytać zapis „we wtorek po św. Wawrzyńcu”? Na przykładach krzyżackiej korespondencji z XIV wieku pokazujemy, jak dni świętych i numeracja dni miesiąca przenikały się w praktyce kancelaryjnej oraz jaką rolę odgrywał kalendarz liturgiczny."
 permalink: /artykuly/kalendarz-i-datowanie-w-xiv-wieku/
-published: false
+published: true
 ---
 
-## List z sierpnia 1393 roku
-
-Wyobraźmy sobie pisarza przygotowującego korespondencję dostojników Zakonu Niemieckiego w Prusach. Musi oznaczyć datę pisma dotyczącego skarg księcia mazowieckiego na zakon. Zamiast znanego nam zapisu „12 sierpnia 1393 roku” pojawia się formuła:
-
-> *am dinstage nach Laurentii*
-
-A więc **„we wtorek po św. Wawrzyńcu”**. Święto św. Wawrzyńca przypadało 10 sierpnia. W 1393 roku, według kalendarza juliańskiego, był to dzień niedzielny, zatem następujący po nim wtorek przypadał 12 sierpnia.
-
-Taką formułę podaje współczesny katalog archiwum berlińskiego (*Ordensbriefarchiv*, nr 505, fol. 1v), opisujący zachowany współczesny wydarzeniom odpis. W tej samej jednostce odnotowano inny list, datowany *ipso die sancti Petri ad vincula* — „w sam dzień św. Piotra w Okowach”, czyli 1 sierpnia 1393 roku.[^1]
-
-Dziś określenie „po św. Wawrzyńcu” może wydawać się nieprecyzyjne. W rzeczywistości stanowiło użyteczny sposób umieszczenia wydarzenia w czasie. Święto było rozpoznawalnym punktem odniesienia, a dzień tygodnia pozwalał wskazać konkretny termin. Nie była to jednak jedyna metoda datowania — i właśnie ta różnorodność jest kluczem do zrozumienia średniowiecznego kalendarza.
-
-## Dwanaście miesięcy, kilka sposobów podawania daty
-
-W XIV-wiecznych Prusach, podobnie jak w pozostałej części łacińskiej Europy, podstawę rachuby czasu stanowił **kalendarz juliański**. Rok dzielił się na dwanaście miesięcy; zwykły liczył 365 dni, a przestępny 366. Nie jest więc prawdą, że mieszkańcy średniowiecza nie znali numerów dni miesiąca albo posługiwali się wyłącznie datami świąt.
-
-W kancelariach współistniały przynajmniej trzy rozwiązania: datowanie według świąt i dni tygodnia, odziedziczona po Rzymie rachuba kalend, non i id oraz **zwykłe numerowanie kolejnych dni miesiąca**. Ich użycie zależało od regionu, epoki i zwyczajów konkretnej kancelarii.[^2]
-
-Najbardziej wymowny kontrast pochodzi z korespondencji tego samego wielkiego mistrza — Konrada Zöllnera von Rotenstein. W liście wystawionym w Toruniu 8 września 1389 roku zapisano:
-
-> *Gegeben czu Thoron, am tage Nativitatis Marie*.
-
-To „dano w Toruniu, w dzień Narodzenia Maryi”. Ale już w innym piśmie, wystawionym w Sztumie 6 października tego samego roku, widnieje:
-
-> *Stumis vj [die] Octobris*.
-
-A więc po prostu: **„w Sztumie, szóstego dnia października”**.[^3]
-
-Te dwa przykłady skutecznie obalają uproszczenie, jakoby w średniowieczu nie zapisywano dat w sposób zbliżony do współczesnego. Wybór formuły nie świadczył o niewiedzy pisarza. Był częścią praktyki kancelaryjnej.
-
-## Trzy dokumenty i trzy święta
-
-Wśród materiałów z ostatniej ćwierci XIV wieku znajdujemy formuły związane z konkretnymi uroczystościami. Poniższe przykłady pochodzą z internetowej edycji i regestów *Virtuelles Preußisches Urkundenbuch*, projektu naukowego udostępnianego przez Uniwersytet w Hamburgu.[^4]
-
-| Data juliańska i miejsce | Formuła źródłowa | Znaczenie |
-|:---|:---|:---|
-| 8 IX 1389, Toruń | *am tage Nativitatis Marie* | W dzień Narodzenia Najświętszej Maryi Panny |
-| 15 IX 1389, Radzyń Chełmiński | *Redd[in] crastino exaltacionis crucis* | W Radzyniu, nazajutrz po Podwyższeniu Krzyża |
-| 19 XI 1392, Malbork | *Marienburg ipso die sante Elizabeth* | W Malborku, w sam dzień św. Elżbiety |
-
-Pierwszy dokument to list wielkiego mistrza do wojewody Sędziwoja z Szubina, dotyczący skarg toruńskich mieszczan. Jego tekst opublikowano w internetowej edycji opartej na wcześniejszym wydaniu źródłowym. Dwa pozostałe zapisy pochodzą z **regestów** rejestru korespondencji, odpowiednio *Ordensfoliant* 2a, nr 39 i 144. Nie przedstawiamy ich jako własnego odczytu rękopisów.
-
-W Radzyniu wielki mistrz odniósł się do sporu o zabrany statek i towary. Pismo z Malborka dotyczyło natomiast prośby Siemowita IV o odroczenie spłaty długu. Oba były sprawami świeckimi. Kalendarz liturgiczny służył zatem również dyplomacji, handlowi i administracji.
-
-## Dlaczego właśnie te święta?
-
-Narodzenie Maryi, Podwyższenie Krzyża i dzień św. Elżbiety nie były przypadkowymi elementami religijnego pejzażu Zakonu Niemieckiego. Maryja była główną patronką zakonu, a św. Elżbieta i św. Jerzy zajmowali ważne miejsce w jego tradycji. Święta Krzyża odgrywały znaczącą rolę w kalendarzu liturgicznym.[^5]
-
-Trzeba jednak podkreślić ważne rozróżnienie: **wysoka ranga liturgiczna nie oznacza automatycznie dużej częstotliwości występowania danego święta w datowaniu listów**. Aby ustalić najczęściej używane formuły, należałoby przebadać odpowiednio liczny i porównywalny zbiór dokumentów. Przytoczone przykłady dowodzą, że dane święta wykorzystywano jako punkty odniesienia, ale nie pozwalają ustalić ich popularności.
-
-Nie należy też bez zastrzeżeń utożsamiać kalendarza wewnętrznego Zakonu Niemieckiego z kalendarzami poszczególnych diecezji pruskich. Liturgia uwzględniała miejscowe tradycje, a część zachowanych rękopisów zakonnych powstała poza Prusami.
-
-## Reguła, która nadawała rytm rokowi
-
-Religijny wymiar czasu był dla wspólnoty zakonnej niezwykle konkretny. Reguła zobowiązywała braci do przyjmowania Komunii świętej **co najmniej siedem razy w roku**: w Wielki Czwartek, w Wielkanoc, w Zesłanie Ducha Świętego, we Wniebowzięcie Maryi (15 sierpnia), we Wszystkich Świętych (1 listopada), w Boże Narodzenie (25 grudnia) i w Oczyszczenie Maryi (2 lutego). Wyliczenie znajduje się w wydaniu statutów opracowanym przez Maxa Perlbacha i jest omawiane przez Damiana Szwedę.[^6]
-
-Nie jest to ani kompletny spis świąt zakonnych, ani wykaz siedmiu świąt najwyższej rangi. Chodzi o terminy wyznaczające **minimalną częstotliwość przyjmowania sakramentu**, a nie o pełną hierarchię liturgiczną.
-
-Kalendarz miał także znaczenie organizacyjne. Badania nad itinerariami wielkich mistrzów z przełomu XIV i XV wieku pokazują, że pewne uroczystości wiązały się z pobytami w Malborku, spotkaniami dostojników i przyjmowaniem poselstw. Damian Szweda przeanalizował szczegółowo rządy Ulryka von Jungingena (1407–1410), sięgając również do praktyk jego poprzednika, Konrada von Jungingena (1393–1407). Ze względu na datowanie materiału nie należy jednak przenosić tych ustaleń automatycznie na całe XIV stulecie.[^6]
-
-## Kalendarz nie był raz na zawsze zamknięty
-
-Badania Anette Löffler pokazują, że liturgia Zakonu Niemieckiego podlegała zmianom. Poszczególne obchody miały różną rangę, określaną między innymi terminami *totum duplex*, *duplex*, *semiduplex* i *commemoratio*. Od tej rangi zależała rozbudowa oficjum, czyli zestawu modlitw i śpiewów przeznaczonych na dany dzień. Stopnie obchodów w zachowanych rękopisach nie zawsze są zgodne, dlatego zestawianie ich wymaga uwzględnienia czasu powstania przekazu.[^7]
-
-Ciekawy przykład stanowi św. Barbara, wspominana 4 grudnia. We wcześniejszej warstwie tradycji zakonnej jej dzień mógł mieć rangę zwykłego wspomnienia, natomiast za wielkiego mistrza Lutra z Brunszwiku (1331–1335) podniesiono jego rangę do *semiduplex* i przewidziano własne oficjum.[^7]
-
-Z kolei za Winrycha von Kniprode (1351–1382) podniesiono rangę świąt Odnalezienia i Podwyższenia Krzyża. Rozwijał się również kult świąt maryjnych. Nie należy jednak zakładać, że wszystkie praktyki znane z rękopisów późniejszych obowiązywały przez całe XIV stulecie.
-
-## „W najbliższą sobotę po Wszystkich Świętych” — nie tylko w Prusach
-
-Datowanie według świąt nie było osobliwością kancelarii krzyżackiej. Roman Stelmach przywołuje dokument ławników wrocławskich z 2 listopada 1325 roku, w którym zastosowano formułę:
-
-> *proxima die Sabbati post diem Omnium Sanctorum*.
-
-A więc: „w najbliższą sobotę po dniu Wszystkich Świętych”. W kalendarzu juliańskim 1 listopada 1325 roku przypadał w piątek, zaś 2 listopada w sobotę.[^2]
-
-Ten sam badacz opisuje dokument kancelarii biskupa wrocławskiego z 5 marca 1383 roku, zawierający zapis *V die mensis Martii*, czyli „piątego dnia miesiąca marca”. W tej kancelarii numerowanie dni początkowo współistniało z rachubą rzymską i datowaniem liturgicznym.
-
-Dobrze pokazuje to istotną różnicę: święto mogło być wygodnym punktem odniesienia również dla pisarza, który potrafił bez trudu zapisać numer dnia miesiąca.
-
-## Kalendy, nony i idy — rzymska rachuba dni
-
-Jeszcze inną metodą był odziedziczony po starożytności system **kalend, non i id**. Kalendy przypadały pierwszego dnia miesiąca. Nony obchodzono zazwyczaj piątego, ale w marcu, maju, lipcu i październiku — siódmego. Idy wypadały odpowiednio trzynastego lub piętnastego dnia.
-
-Rzymianie odliczali dni *wstecz* do najbliższego z tych punktów, stosując rachubę włączającą, która uwzględniała także dzień końcowy. Przykładowo *pridie Nonas Octobris* oznaczało **6 października**, przeddzień non październikowych.
-
-Dlatego przeliczanie dat rzymskich wymaga ostrożności. W opracowaniach mogą zdarzać się rozbieżności między zapisem źródłowym a proponowanym odpowiednikiem dziennym; rozstrzyga się je poprzez ponowną kontrolę formuły i jej kontekstu.
-
-## Od pisarza do mieszczanina: czy wszyscy tak mówili?
-
-Największą pułapką jest przenoszenie języka dokumentów bezpośrednio na codzienną rozmowę. Jeśli kancelista wielkiego mistrza zapisał „we wtorek po św. Wawrzyńcu”, **nie dowodzi to jeszcze**, że identycznymi formułami stale posługiwali się chłopi, rzemieślnicy czy rycerze.
-
-Badania Agnieszki Bartoszewicz nad późnośredniowieczną Polską pokazują jednak, że święta były ważnymi punktami odniesienia także przy ustalaniu terminów płatności, rozpraw sądowych i innych zobowiązań. Autorka zwraca uwagę na różnice między wielkim miastem, małym ośrodkiem i wsią.[^8]
-
-Możemy więc stwierdzić: **sposób datowania dokumentów jest poświadczony bezpośrednio**, natomiast potoczny sposób mówienia o czasie odtwarzamy pośrednio, zestawiając różne rodzaje źródeł.
-
-## Rok nie wszędzie rozpoczynał się 1 stycznia
-
-Średniowieczna rachuba czasu bywa zaskakująca z jeszcze jednego powodu. W Europie używano różnych **stylów początku roku**. Zależnie od regionu i kancelarii rok mógł rozpoczynać się 1 stycznia, 25 grudnia, 25 marca, a w pewnych tradycjach także w Wielkanoc.
-
-Dlatego podczas odczytywania dokumentów z przełomu roku nie wystarczy poznać samego dnia i miesiąca. Niekiedy trzeba ustalić również miejscowy sposób numerowania lat, ponieważ ten sam dzień mógł zostać zaliczony do innego roku niż we współczesnej chronologii.
-
-Nie należy przy tym zakładać, że wszystkie kancelarie krzyżackie korzystały zawsze z identycznego stylu: każdą taką tezę należałoby sprawdzić dla konkretnego środowiska i okresu.
-
-## Dlaczego kalendarz juliański ma znaczenie?
-
-W XIV wieku używano kalendarza juliańskiego. Reforma gregoriańska nastąpiła dopiero w 1582 roku. Przy sprawdzaniu dnia tygodnia nie wolno zatem bezrefleksyjnie odczytywać średniowiecznych dat z dzisiejszego kalendarza.
-
-**12 sierpnia 1393 roku według kalendarza juliańskiego odpowiada 20 sierpnia w kalendarzu gregoriańskim przedłużonym wstecz**, nazywanym proleptycznym. W badaniach historycznych zwykle pozostawia się datę w rachubie stosowanej w źródle, a ewentualne przeliczenie wyraźnie oznacza.
-
-To szczególnie ważne przy datowaniu według dni tygodnia i świąt ruchomych, ponieważ błędne przyjęcie współczesnego kalendarza może przesunąć wyliczony termin.
-
-## Mały warsztat: jak odczytać średniowieczną datę?
-
-Wróćmy do dokumentu wielkiego mistrza z Radzynia Chełmińskiego. Formuła brzmi:
-
-> *Redd[in] crastino exaltacionis crucis*.
-
-Jak otrzymać z niej datę 15 września 1389 roku?
-
-1. Rozpoznajemy nazwę uroczystości: *Exaltatio Crucis*, czyli Podwyższenie Krzyża, przypadało 14 września.
-2. Odczytujemy *crastino*: „nazajutrz”. Dodajemy więc jeden dzień — 15 września.
-3. Sprawdzamy rok i rachubę: w tym przypadku rok 1389 podaje kontekst oraz naukowe opracowanie przekazu, a datę rozumiemy według kalendarza juliańskiego.
-4. Wracamy do źródła: w *Virtuelles Preußisches Urkundenbuch* regest powiązano z *Ordensfoliant* 2a, nr 39.[^4]
-
-W trudniejszych przypadkach musimy dodatkowo ustalić datę Wielkanocy, znaczenie oktawy, zwyczaje lokalnego kalendarza albo styl początku roku. Sam zwrot *post festum* — „po święcie” — nie oznacza automatycznie „następnego dnia”. Dlatego zawsze warto zapisywać **pełną formułę źródłową**.
-
-## Zakończenie: wspólny język czasu
-
-Mieszkańcy XIV-wiecznych Prus nie żyli bez kalendarza ani bez wiedzy o kolejnych dniach miesiąca. Dysponowali kilkoma sposobami określania dat. Święta kościelne były wśród nich szczególnie użyteczne, ponieważ wyznaczały rozpoznawalne punkty roku i łączyły świat religii z prawem, handlem i administracją.
-
-W państwie Zakonu Niemieckiego znaczenie kalendarza wzmacniały także zasady życia wspólnoty zakonnej. Nie wyczerpywało to jednak repertuaru używanego przez kancelarie: obok „nazajutrz po Podwyższeniu Krzyża” spotykamy przecież równie proste „szóstego dnia października”.
-
-Dlatego zapis „we wtorek po św. Wawrzyńcu” nie był niedokładnością ani przejawem nieporadności. **Był jednym z naturalnych sposobów wyrażania czasu — czytelnym dla pisarza i odbiorcy, którzy znali ten sam kalendarz.**
-
----
-
-## Przypisy i źródła
-
-[^1]: Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin, XX. Hauptabteilung, *Ordensbriefarchiv*, nr 505, fol. 1r–v (1 VIII 1393) i 1v (12 VIII 1393), opis katalogowy z cytowaną formułą oraz informacją o współczesnym odpisie: [katalog OBA](https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/xx_ha_oba/xml/inhalt/GStA_xx_ha_oba_6_1_1.htm). Nie dokonano własnej transkrypcji rękopisu.
-
-[^2]: Roman Stelmach, „Data w dokumencie średniowiecznym i nowożytnym”, „Rocznik Jeleniogórski” 46 (2014), s. 39–46, szczególnie s. 42–45: [pełny tekst PDF](https://jbc.jelenia-gora.pl/Content/16917/rocznik_jeleniogorski_2014.pdf). Wrocławski dokument z 1325 r.: AP we Wrocławiu, Dokumenty miasta Wrocławia, nr 180; dokument z 1383 r.: AP we Wrocławiu, Rep. 102, nr 56 (według Stelmacha).
-
-[^3]: [*Virtuelles Preußisches Urkundenbuch*, rok 1389](https://www.spaetmittelalter.uni-hamburg.de/Urkundenbuch/pub/orden1389.html), regest PrUB1389.10.06 / RBDO I, OF 2a, nr 50; ponadto Jürgen Sarnowsky (wyd.), [PrUB, JS-JP 81, list z Torunia, 8 IX 1389](https://www.spaetmittelalter.uni-hamburg.de/Urkundenbuch/pub/js-jp/js-jp81.htm). Edycja internetowa wykorzystuje wcześniejsze wydanie w *Hansisches Urkundenbuch*, t. 4 (1896), nr 981, s. 431, na podstawie OF 2a, s. 12.
-
-[^4]: *Virtuelles Preußisches Urkundenbuch*, [regesty roku 1389](https://www.spaetmittelalter.uni-hamburg.de/Urkundenbuch/pub/orden1389.html), PrUB1389.09.15 / RBDO I, OF 2a, nr 39, oraz [regesty roku 1392](https://www.spaetmittelalter.uni-hamburg.de/Urkundenbuch/pub/orden1392.html), PrUB1392.11.19 / RBDO I, OF 2a, nr 144. Przywołane sformułowania z tych dwóch pozycji znane są tu z regestów, nie z własnego odczytu oryginałów.
-
-[^5]: Waldemar Rozynkowski, „Zakon krzyżacki jako zakon — o Krzyżakach inaczej”, w: *Szkice z dziejów Sośna i Krajny*, Pelplin 2018, s. 24–47, zwłaszcza s. 38–41; [repozytorium UMK](https://repozytorium.umk.pl/items/38dca400-0f98-474d-b59e-9177f494adce).
-
-[^6]: Max Perlbach (wyd.), *Die Statuten des Deutschen Ordens nach den ältesten Handschriften*, Halle 1890, s. 36, [wydanie cyfrowe](https://www.mgh-bibliothek.de/dokumente/0/094588.pdf); Damian Szweda, „Wpływ kalendarza liturgicznego na funkcjonowanie państwa zakonu krzyżackiego w Prusach w czasach wielkiego mistrza Ulryka von Jungingen (1407–1410)”, „Studia Elbląskie” 18 (2017), s. 125–138, [pełny tom PDF](https://studiaelblaskie.pl/assets/Numery/SE-18-2017.pdf).
-
-[^7]: Anette Löffler, „Hohe Feste, niedere Feste. Der liturgische Festalltag in den Konventen des Deutschen Ordens”, „Ordines Militares. Colloquia Torunensia Historica” 29 (2024), s. 41–68, szczególnie s. 49–50 i 56–59, DOI: [10.12775/OM.2024.002](https://doi.org/10.12775/OM.2024.002). Autorka wskazuje zarówno zmiany rang, jak i rozbieżności pomiędzy rękopisami.
-
-[^8]: Agnieszka Bartoszewicz, „The Social Perception of the Church Calendar in Late Medieval Poland: City – (Small) Town – Countryside”, „Archivum Latinitatis Medii Aevi” 79 (2021), s. 135–177, DOI: [10.3406/alma.2021.2667](https://doi.org/10.3406/alma.2021.2667), [pełny artykuł](https://www.persee.fr/doc/alma_0994-8090_2021_num_79_1_2667).
-
-*Nota warsztatowa.* Artykuł ma charakter popularnonaukowy, nie stanowi edycji krytycznej dokumentów. Odwołania do niektórych formuł oparto na edycjach i regestach; tam, gdzie nie dokonano własnego odczytu rękopisu, zaznaczono to w przypisach. Kalendarz zakonny i obyczaje diecezjalne nie były całkowicie tożsame, a materiał nie pozwala jeszcze na statystyczny ranking popularności świąt używanych do datowania. Stan kontroli źródeł: 25 października 2026 r.
+<p>W pewnym sierpniowym liście z 1393 roku nie znajdziemy daty zapisanej tak, jak oczekiwalibyśmy dzisiaj. Dostojnicy Zakonu Niemieckiego odpowiadali na skargi księcia mazowieckiego, a kopista utrwalił przy piśmie słowa <em>am dinstage nach Laurentii</em> — „we wtorek po św. Wawrzyńcu”. Nie oznaczało to, że wystawcy nie potrafili podać numeru dnia miesiąca. Po prostu sięgnęli po inny, dobrze rozpoznawalny punkt odniesienia. Święto św. Wawrzyńca obchodzono 10 sierpnia; w 1393 roku, według używanego wówczas kalendarza juliańskiego, dzień ten przypadał w niedzielę. Najbliższy wtorek był zatem 12 sierpnia. Taką datę podaje również współczesny opis dokumentu w berlińskim Ordensbriefarchiv.<sup class="cite"><a href="#przypis-1" aria-label="Przypis 1">[1]</a></sup></p>
+<figure class="calendar-figure"><a href="/assets/skryptorium/kalendarz-ghistelles-1301.webp"><img src="/assets/skryptorium/kalendarz-ghistelles-1301.webp" alt="Karty kalendarza z Ghistelles (Flandria), około 1301 roku, The Walters Art Museum, W.851; fotografia CC0." loading="lazy"></a><figcaption>Ryc. 1. Karty kalendarza z Ghistelles (Flandria), około 1301 roku, The Walters Art Museum, W.851; fotografia CC0. <a href="https://art.thewalters.org/object/W.851.5R/" rel="noopener">Karta w katalogu muzeum</a>.</figcaption></figure>
+<p>Pozornie niewielka różnica w sposobie zapisania daty otwiera przed nami całkiem ciekawy świat. Dzisiejszy czytelnik przyzwyczajony jest do ciągu cyfr: dzień, miesiąc, rok. Średniowieczny pisarz mógł oczywiście korzystać z podobnego rozwiązania, ale równie naturalne było dla niego odwołanie do święta, wigilii święta, niedzieli roku kościelnego albo dnia tygodnia następującego po znanej uroczystości. Aby odczytać taki zapis, nie wystarczy znać łacinę czy dawną niemczyznę. Trzeba jeszcze wiedzieć, jakie święto kryło się pod daną nazwą, kiedy obchodzono je w danym regionie oraz według jakiego kalendarza liczono dni.</p>
+<p>Przypadek z 1393 roku jest tym ciekawszy, że nie znamy go z własnoręcznie odczytanego przez nas oryginału pergaminowego. Katalog archiwalny opisuje współczesny wydarzeniom odpis i przytacza jego formułę. W tej samej jednostce znajduje się pismo opatrzone słowami <em>ipso die sancti Petri ad vincula</em> — „w sam dzień św. Piotra w Okowach”, czyli 1 sierpnia. Średniowieczna kancelaria dysponowała zatem kilkoma sposobami powiązania spraw świeckich z rytmem świąt. W obu przypadkach chodziło o korespondencję polityczną i spory, nie o teksty liturgiczne.<sup class="cite"><a href="#przypis-1" aria-label="Przypis 1">[1]</a></sup></p>
+<p>Byłoby jednak błędem wyciągać stąd wniosek, że w XIV wieku dni miesiąca nie numerowano. W rzeczywistości obie praktyki spotykały się nawet w kancelarii jednego wystawcy.</p>
+<h2>Jedna kancelaria, różne sposoby liczenia</h2>
+<p>We wrześniu 1389 roku wielki mistrz Konrad Zöllner von Rotenstein pisał z Torunia do Sędziwoja z Szubina. Sprawa nie miała nic wspólnego z religijną uroczystością: toruńscy mieszczanie skarżyli się na przemoc i utratę mienia, a wielki mistrz domagał się interwencji. Pod końcem listu znalazła się jednak formuła <em>Gegeben czu Thoron, am tage Nativitatis Marie</em> — „dano w Toruniu, w dzień Narodzenia Maryi”. Dokument wystawiono 8 września. Nie musimy tu poprzestawać na streszczeniu katalogowym: zachował się tekst udostępniony w naukowej edycji internetowej, opartej na wcześniejszym wydaniu źródłowym. Warto podkreślić, że jest to przekaz z rejestru korespondencji, a nie nasz bezpośredni odczyt rękopisu.<sup class="cite"><a href="#przypis-2" aria-label="Przypis 2">[2]</a></sup></p>
+<p>Niespełna miesiąc później, 6 października, ten sam wielki mistrz wysłał ze Sztumu pismo do księcia Albrechta Bawarskiego. Tematem był spór dotyczący dóbr jednego z poddanych zakonu. Tym razem datę podano krótko: <em>Stumis vj [die] Octobris</em> — „w Sztumie, szóstego dnia października”. Nawias kwadratowy sygnalizuje uzupełnienie zastosowane w przekazie edytorskim, a samą formułę znamy z regestu.<sup class="cite"><a href="#przypis-3" aria-label="Przypis 3">[3]</a></sup></p>
+<p>Oba pisma dzieli zaledwie kilka tygodni. Nie zmieniła się epoka, nie przestawił się nagle sposób myślenia ludzi i nie wyparł jednego kalendarza drugi. Zmienił się zapis, po jaki sięgnęła kancelaria. Jest to chyba najlepsza odpowiedź na pytanie, czy XIV-wieczny człowiek powiedziałby raczej „dzisiaj jest 25 października”, czy „dzisiaj jest po św. Andrzeju”: obie logiki były mu dostępne, chociaż nie musiały występować z jednakową częstotliwością ani w tych samych sytuacjach. Nie wiemy też, jak brzmiałaby potoczna wypowiedź konkretnej osoby; dokument pokazuje przede wszystkim praktykę pisarza.</p>
+<p>Święto mogło być punktem odniesienia także wtedy, gdy oznaczano datę nie w jego dzień, lecz tuż obok niego. W liście z Radzynia Chełmińskiego, wystawionym 15 września 1389 roku, pojawia się formuła <em>Redd[in] crastino exaltacionis crucis</em>: „w Radzyniu, nazajutrz po Podwyższeniu Krzyża”. Podwyższenie Krzyża obchodzono 14 września, zatem rachuba jest prosta. Sam list dotyczył skarg związanych z zajęciem statku i towarów. Wielki mistrz pisał o możliwych terminach rozstrzygnięcia sporu: przy okazji zebrania kupców w Lubece albo później w Prusach.<sup class="cite"><a href="#przypis-3" aria-label="Przypis 3">[3]</a></sup> Jedno pismo pozwala nam więc podejrzeć co najmniej dwa sposoby posługiwania się czasem: datę jego wystawienia określoną przez święto oraz przyszłe terminy praktycznych działań.</p>
+<figure class="calendar-figure"><a href="/assets/skryptorium/schemat-formul-datowania.webp"><img src="/assets/skryptorium/schemat-formul-datowania.webp" alt="Trzy sposoby datowania w dokumentach krzyżackich — współczesne zestawienie redakcyjne, nie reprodukcja rękopisu." loading="lazy"></a><figcaption>Ryc. 2. Trzy sposoby datowania w dokumentach krzyżackich — współczesne zestawienie redakcyjne, nie reprodukcja rękopisu.</figcaption></figure>
+<p>Jeszcze bardziej wyrazisty przykład przynosi Malbork. Dnia 19 listopada 1392 roku wielki mistrz Konrad von Wallenrode odpowiadał księciu Siemowitowi IV na prośbę o odroczenie spłaty długu do Bożego Narodzenia. Pismo nosiło datę <em>Marienburg ipso die sante Elizabeth</em> — „w Malborku, w sam dzień św. Elżbiety”. Nazwa świętej wskazywała dzień wysłania odpowiedzi, a Boże Narodzenie — termin, wokół którego toczyła się sprawa finansowa. Kalendarz religijny i praktyka administracyjna nie znajdowały się tu w osobnych szufladach. Przenikały się w tym samym dokumencie.<sup class="cite"><a href="#przypis-4" aria-label="Przypis 4">[4]</a></sup></p>
+<p>Nie oznacza to, że wszystkie wzmiankowane święta miały identyczną rangę w liturgii. Nie oznacza także, że święto najważniejsze dla zakonu musiało najczęściej pojawiać się w jego korespondencji. Aby zestawić rzeczywistą częstotliwość formuł, należałoby systematycznie przebadać duży, porównywalny zbiór dokumentów. Przytoczone przykłady pozwalają na ostrożniejszy, lecz mocny wniosek: święta stanowiły żywe punkty odniesienia w praktyce kancelaryjnej państwa zakonnego.</p>
+<h2>Święto nie było tylko datą</h2>
+<p>Dlaczego odwołanie do dnia świętego mogło być tak użyteczne? Przede wszystkim dlatego, że kalendarz kościelny należał do organizacji życia, a nie wyłącznie do kościelnych ksiąg. Jego święta wyznaczały kolejne etapy roku, rytm liturgii, postów, uroczystości i wspomnień. Niektóre stawały się także terminami zebrań, rozliczeń, spłat czy spotkań. Świat religijny dostarczał więc nazw, którymi posługiwały się kancelarie, sądy i ludzie prowadzący interesy.</p>
+<p>Szczególnie wyraźnie widać to w Zakonie Niemieckim, gdzie kalendarz miał jeszcze wymiar wspólnotowy i normatywny. Reguła zalecała braciom przyjmowanie Komunii siedem razy w roku: w Wielki Czwartek, w Wielkanoc, w Zielone Świątki, w dzień Wniebowzięcia Najświętszej Maryi Panny, we Wszystkich Świętych, w Boże Narodzenie oraz w święto Oczyszczenia Najświętszej Maryi Panny, przypadające 2 lutego. Wyliczenie to odnajdujemy w średniowiecznych statutach i w analizie Damiana Szwedy.<sup class="cite"><a href="#przypis-5" aria-label="Przypis 5">[5]</a></sup> Nie jest to pełna lista świąt zakonnych ani ich ranking ważności. Pokazuje jednak, że określone dni roku miały szczególne znaczenie dla obowiązków i praktyk religijnych braci.</p>
+<p>Gdy mówimy o krzyżackim kalendarzu, łatwo ulec pokusie narysowania jednej uporządkowanej tabeli i przypisania każdemu świętu stałego miejsca. Źródła liturgiczne pokazują obraz znacznie ciekawszy. Istniały uroczystości bardziej i mniej rozbudowane, a ich ranga mogła się zmieniać. Anette Löffler, badająca kalendarz i praktykę liturgiczną Zakonu Niemieckiego, wskazuje między innymi na historię święta św. Barbary. W niektórych wcześniejszych przekazach miało ono rangę wspomnienia (<em>commemoratio</em>). Za wielkiego mistrza Lutra z Brunszwiku, sprawującego urząd w latach 1331–1335, podniesiono jego rangę do <em>semiduplex</em> i przewidziano osobne oficjum.<sup class="cite"><a href="#przypis-6" aria-label="Przypis 6">[6]</a></sup></p>
+<p>Za tą pozornie techniczną zmianą kryje się coś więcej niż nowy zapis w kalendarzu. Wyższa ranga uroczystości mogła oznaczać bogatszy porządek modlitw i śpiewów. Władze zakonu kształtowały zatem nie tylko reguły administracji czy wojskowej organizacji, lecz także sposób przeżywania kolejnych dni roku. Zarazem — co Löffler wyraźnie podkreśla — zachowane księgi nie tworzą obrazu doskonałej jednolitości. Na praktykę wpływały miejsce, tradycja danego konwentu, zależności diecezjalne i historia samego rękopisu. Kalendarz zakonu używany poza Prusami nie może być automatycznie traktowany jako wierne odbicie zwyczajów malborskich.<sup class="cite"><a href="#przypis-6" aria-label="Przypis 6">[6]</a></sup></p>
+<figure class="calendar-figure"><a href="/assets/skryptorium/zwiastowanie-walters-w104.webp"><img src="/assets/skryptorium/zwiastowanie-walters-w104.webp" alt="Zwiastowanie w inicjale z księgi godzin, okolice Arras, około 1300–1325. Przykład kultury księgi liturgicznej (nie karta kalendarza). The Walters Art Museum, W.104, fol. 19r; fotografia CC0." loading="lazy"></a><figcaption>Ryc. 3. Zwiastowanie w inicjale z księgi godzin, okolice Arras, około 1300–1325. Przykład kultury księgi liturgicznej (nie karta kalendarza). The Walters Art Museum, W.104, fol. 19r; fotografia CC0. <a href="https://art.thewalters.org/object/W.104.19R/" rel="noopener">Karta w katalogu muzeum</a>.</figcaption></figure>
+<p>Również działalność władz zakonnych podlegała rytmowi uroczystości. Damian Szweda, analizując początek XV wieku, pokazuje związki pomiędzy najważniejszymi świętami a itinerariami wielkich mistrzów. Zwraca też uwagę na niektóre zwyczaje z czasów Konrada von Jungingena, panującego jeszcze pod koniec XIV stulecia.<sup class="cite"><a href="#przypis-5" aria-label="Przypis 5">[5]</a></sup> Trzeba jednak postawić granicę: szczegółowe obserwacje odnoszące się do lat 1407–1410 nie dowodzą, że identyczny układ obowiązywał przez cały wcześniejszy wiek. Historia średniowiecznego kalendarza nie była nieruchoma.</p>
+<p>Co więcej, nie każda wzmianka o święcie w dokumencie dowodzi, że pisarz kierował się szczególnym nabożeństwem do danego patrona. Czasami mógł po prostu wybrać nazwę dnia powszechnie czytelną w danym środowisku. Właśnie dlatego należy ostrożnie odróżniać rangę liturgiczną, rozpoznawalność święta i częstość jego użycia w datowaniu. Są to trzy powiązane, ale nieidentyczne zagadnienia.</p>
+<p>Granica między kalendarzem a codziennością zaciera się jeszcze bardziej, gdy spojrzymy poza kancelarię wielkiego mistrza. W późnośredniowiecznej Polsce, jak wykazała Agnieszka Bartoszewicz, święta służyły również do określania terminów czynności prawnych i gospodarczych. Badaczka porównuje praktyki wielkiego miasta, mniejszych ośrodków i wsi, pokazując, że znaczenie kalendarza kościelnego nie było wszędzie takie samo.<sup class="cite"><a href="#przypis-7" aria-label="Przypis 7">[7]</a></sup> Dla mieszczanina święto mogło być datą spłaty długu, dla osoby uczestniczącej w procesie — terminem stawiennictwa, a dla zakonnika — częścią rytmu liturgii. Nie należy jednak przypisywać każdemu z tych ludzi identycznej wiedzy ani sposobu wyrażania dat. Zestawiamy różne sytuacje społeczne, nie jeden modelowy „średniowieczny umysł”.</p>
+<p>Zresztą same dokumenty nie są stenogramami rozmów. Sformułowanie „w dzień św. Elżbiety” informuje nas pewnie o języku kancelarii, ale znacznie mniej bezpośrednio o tym, jak tę samą datę podałby przy ognisku podróżny, w warsztacie rzemieślnik albo na targu sprzedawca zboża. To ważne ograniczenie, jeśli chcemy pisać historię ludzi, a nie tylko historię formularzy. Pomocne są wtedy księgi sądowe i zapisy dotyczące zobowiązań — lecz również one przechodziły przez rękę pisarza.<sup class="cite"><a href="#przypis-7" aria-label="Przypis 7">[7]</a></sup></p>
+<h2>Kiedy datę trzeba rozszyfrować</h2>
+<p>Najprostsze formuły odnoszą się do samego dnia święta: <em>in festo sancti Martini</em> oznacza 11 listopada, <em>in vigilia sancti Andreae</em> — 29 listopada, dzień poprzedzający święto św. Andrzeja. Jeżeli czytamy <em>in crastino</em>, wiemy, że chodzi o dzień następny. Trudniej robi się tam, gdzie dokument mówi tylko <em>post festum</em>, „po święcie”. Takie sformułowanie samo w sobie nie daje prawa, by mechanicznie dodać jeden dzień. Potrzebujemy pełnego zapisu, dnia tygodnia albo dalszego kontekstu.</p>
+<p>Średniowieczna łacina kancelaryjna określała także dni tygodnia inaczej, niż dziś byśmy oczekiwali. Niedzielę nazywano <em>dominica</em> lub <em>dies <em>dominica</em></em>; poniedziałek — <em>feria secunda</em>, wtorek — <em>feria tertia</em>, środę — <em>feria quarta</em>, czwartek — <em>feria quinta</em>, piątek — <em>feria sexta</em>. Sobotę określano mianem <em>sabbatum</em>. Pisarz mógł więc zanotować na przykład <em>feria tertia</em> <em>post festum</em>, czyli „we wtorek po święcie”. Nie jest to jednak cytat z jednego konkretnego krzyżackiego dokumentu, lecz objaśnienie konstrukcji spotykanej w dawnym datowaniu.</p>
+<p>Warto zajrzeć również poza Prusy. Roman Stelmach omawia dokument ławników wrocławskich z 2 listopada 1325 roku, w którym dzień określono jako <em>proxima die Sabbati post diem Omnium Sanctorum</em> — „w najbliższą sobotę po Wszystkich Świętych”. Rzeczywiście, w kalendarzu juliańskim 1 listopada tego roku wypadał w piątek, a 2 listopada w sobotę. Ten sam autor przywołuje późniejszy śląski zapis <em>V die mensis Martii</em> — „piątego dnia miesiąca marca” — z 1383 roku.<sup class="cite"><a href="#przypis-8" aria-label="Przypis 8">[8]</a></sup> Różne metody nie występowały więc wyłącznie w Prusach.</p>
+<p>Dodatkowego kłopotu może przysporzyć datowanie według świąt ruchomych. Jeśli list wystawiono „w poniedziałek po niedzieli Quasimodogeniti”, najpierw trzeba ustalić termin Wielkanocy w danym roku, później odnaleźć niedzielę przypadającą tydzień po niej i dopiero wtedy obliczyć poniedziałek. Nazwa Quasimodogeniti pochodzi od początkowych słów śpiewu liturgicznego, a nie od daty stałej. W takich przypadkach samo znalezienie święta w wykazie nie wystarczy. Nie będziemy przy tym opierać rachuby na problematycznym regescie z 1395 roku, w którym katalog przypisuje Ulrykowi von Jungingen tytuł wielkiego mistrza, chociaż urząd ten objął dopiero w 1407 roku.<sup class="cite"><a href="#przypis-1" aria-label="Przypis 1">[1]</a></sup></p>
+<p>Średniowieczny pisarz mógł także zastosować starą rachubę rzymską. Jej punkty odniesienia tworzyły kalendy (pierwszy dzień miesiąca), nony i idy. Nony przypadały zwykle piątego dnia, ale w marcu, maju, lipcu i październiku siódmego; idy odpowiednio trzynastego lub piętnastego. Co najbardziej kłopotliwe dla współczesnego czytelnika, dni odliczano wstecz i wliczano do rachuby dzień docelowy. Stąd <em>pridie Nonas Octobris</em> oznacza 6 października, nie siódmego. W źródłach średniowiecznych metoda ta współistniała z datowaniem według świąt i numerów dni miesiąca.<sup class="cite"><a href="#przypis-8" aria-label="Przypis 8">[8]</a></sup></p>
+<p>Nawet po poprawnym rozpoznaniu święta może pozostać pytanie: według jakiego kalendarza liczymy? W XIV wieku stosowano kalendarz juliański. Reforma gregoriańska nastąpiła dopiero w 1582 roku, a jej przyjmowanie rozciągało się w różnych krajach na długi okres. Dzień 12 sierpnia 1393 roku według kalendarza juliańskiego odpowiada 20 sierpnia w kalendarzu gregoriańskim przedłużonym wstecz, czyli proleptycznym. Historycy nie przepisują jednak automatycznie wszystkich dat średniowiecznych na gregoriańskie. Zwykle podaje się je w rachubie właściwej dla epoki, a ewentualną konwersję zaznacza.</p>
+<p>Istniała jeszcze jedna trudność: nie wszędzie rok zaczynał się 1 stycznia. W różnych środowiskach kancelaryjnych Europy spotykamy style początku roku związane między innymi z Bożym Narodzeniem, Zwiastowaniem czy Wielkanocą. Niekiedy ten sam dzień mógł otrzymać różny numer roku, zależnie od stosowanego zwyczaju. Nie oznacza to, że każdy z tych stylów występował w takim samym stopniu w Prusach; wymagałoby to oddzielnego rozpoznania kancelarii i okresu. Praktyczna zasada dla badacza jest prosta: nie należy poprawiać średniowiecznej daty, zanim ustali się, w jakim systemie została zapisana.</p>
+<p>Gdy wrócimy teraz do naszego sierpniowego listu, zadanie jest już łatwiejsze. Znamy święto Wawrzyńca, umiemy odczytać „wtorek po”, sprawdzamy juliański układ tygodnia dla 1393 roku i otrzymujemy 12 sierpnia. Nie rozwiązaliśmy tajemnicy średniowiecznej mentalności; wykonaliśmy po prostu porządną pracę chronologiczną. A jednak przy okazji odkryliśmy, ile wiedzy o języku, liturgii, urzędach i miejscowych zwyczajach kryje się w zaledwie kilku słowach zapisanych na końcu listu.</p>
+<h2>Nie jeden kalendarz, lecz wspólny język czasu</h2>
+<p>Kalendarz w XIV wieku nie był mniej dokładny tylko dlatego, że data bywała wyrażona przez wspomnienie świętego. Nie był też wyłącznie narzędziem religijnym. Działał jednocześnie w wielu porządkach: wyznaczał święta i posty, pomagał ustalać terminy sporów, długów i spotkań, a pisarzom dawał zestaw zrozumiałych formuł.</p>
+<p>Najbardziej interesujące jest to, że systemów tych nie musimy układać w prostą sekwencję: najpierw „prymitywne” datowanie świętami, później „nowoczesne” numerowanie dni. Wielki mistrz mógł w tym samym roku pisać „w dzień Narodzenia Maryi” i „szóstego dnia października”. Pisarz śląski mógł wybrać dzień tygodnia po Wszystkich Świętych albo numer dnia miesiąca. Sposób zapisu nie zawsze mówi nam, co dana osoba wiedziała o czasie; częściej mówi, jaki język datowania był odpowiedni dla konkretnego dokumentu.</p>
+<p>Dlatego formuła <em>am dinstage nach Laurentii</em> przestaje być dla nas egzotyczną zagadką. To ślad świata, w którym kalendarz kościelny dostarczał powszechnie rozpoznawalnych nazw, ale nie odbierał nikomu umiejętności liczenia kolejnych dni. Średniowieczny pisarz nie potrzebował cyfrowego pola z datą. Miał do dyspozycji coś innego: zestaw punktów orientacyjnych, które łączyły czas religijny z codzienną praktyką. I właśnie z ich pomocą potrafił powiedzieć bardzo dokładnie, kiedy coś się wydarzyło.</p>
+<section class="footnotes" aria-labelledby="przypisy"><h2 id="przypisy">Przypisy i literatura</h2><ol>
+<li id="przypis-1">Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin, XX. Hauptabteilung, Ordensbriefarchiv, nr 505, fol. 1r–v i 1v; opis katalogowy, przytaczający formuły datowania korespondencji z 1 i 12 sierpnia 1393 r.: <a href="https://archivda">https://archivda</a>tenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/xx_ha_oba/xml/inhalt/GStA_xx_ha_oba_6_1_1.htm. Ten sam opis zawiera problematyczną identyfikację wystawcy dokumentu z 1395 r. Nie dokonano własnej transkrypcji rękopisu.</li>
+<li id="przypis-2">Jürgen Sarnowsky (wyd.), Virtuelles Preußisches Urkundenbuch, PrUB, JS-JP 81, list Konrada Zöllnera von Rotenstein z Torunia, 8 września 1389 r.: <a href="https://www.spae">https://www.spae</a>tmittelalter.uni-hamburg.de/Urkundenbuch/pub/js-jp/js-jp81.htm; edycja oparta na Hansisches Urkundenbuch, t. 4, Halle 1896, nr 981, s. 431; przekaz rejestrowy Ordensfoliant 2a, s. 12.</li>
+<li id="przypis-3">Virtuelles Preußisches Urkundenbuch, regesty z roku 1389: PrUB1389.09.15 / RBDO I, OF 2a, nr 39 (Radzyń Chełmiński) oraz PrUB1389.10.06 / RBDO I, OF 2a, nr 50 (Sztum): <a href="https://www.spae">https://www.spae</a>tmittelalter.uni-hamburg.de/Urkundenbuch/pub/orden1389.html. Formuły cytowane według regestów; nie stanowią własnych odczytów rękopisu.</li>
+<li id="przypis-4">Virtuelles Preußisches Urkundenbuch, PrUB1392.11.19 / RBDO I, OF 2a, nr 144, list Konrada von Wallenrode do Siemowita IV z 19 listopada 1392 r.: <a href="https://www.spae">https://www.spae</a>tmittelalter.uni-hamburg.de/Urkundenbuch/pub/orden1392.html (regest).</li>
+<li id="przypis-5">Damian Szweda, „Wpływ kalendarza liturgicznego na funkcjonowanie państwa zakonu krzyżackiego w Prusach w czasach wielkiego mistrza Ulryka von Jungingena (1407–1410)”, „Studia Elbląskie” 18 (2017), s. 125–138, szczególnie s. 125–127; <a href="https://s">https://s</a>tudiaelblaskie.pl/assets/Numery/SE-18-2017.pdf. Autor odsyła do statutów zakonu w edycji Maxa Perlbacha: Die Statuten des Deutschen Ordens nach den ältesten Handschriften, Halle 1890, s. 36.</li>
+<li id="przypis-6">Anette Löffler, „Hohe Feste, niedere Feste. Der liturgische Festalltag in den Konventen des Deutschen Ordens”, „Ordines Militares. Colloquia Torunensia Historica” 29 (2024), s. 41–68, zwłaszcza omówienie św. Barbary i różnic rękopiśmiennych; DOI: <a href="https://doi.or">https://doi.or</a>g/10.12775/OM.2024.002; tekst udostępniony także przez ResearchGate.</li>
+<li id="przypis-7">Agnieszka Bartoszewicz, „The Social Perception of the Church Calendar in Late Medieval Poland: City – (Small) Town – Countryside”, „Archivum Latinitatis Medii Aevi” 79 (2021), s. 135–177; <a href="https://doi.or">https://doi.or</a>g/10.3406/alma.2021.2667; pełny tekst: <a href="https://www.persee.fr/doc/a">https://www.persee.fr/doc/a</a>lma_0994-8090_2021_num_79_1_2667.</li>
+<li id="przypis-8">Roman Stelmach, „Data w dokumencie średniowiecznym i nowożytnym”, „Rocznik Jeleniogórski” 46 (2014), s. 39–46, szczególnie s. 42–45; <a href="https://jbc.je">https://jbc.je</a>lenia-gora.pl/Content/16917/rocznik_jeleniogorski_2014.pdf.</li>
+</ol><p><strong>Do dalszych badań:</strong> Grzegorz Myśliwski, Człowiek średniowiecza wobec czasu i przestrzeni (Mazowsze od XII do połowy XVI wieku), Warszawa 1999; Henryk Wąsowicz, Chronologia średniowieczna, wyd. 3, Lublin 2016; Bronisław Włodarski (red.), Chronologia polska, Warszawa 1957. Nie przypisano tym pozycjom niezweryfikowanych numerów stron.</p>
+<p class="editorial-note">Nota źródłowa: Jest to artykuł popularnonaukowy, nie edycja krytyczna. Formuły z poszczególnych źródeł mają różny stopień dostępności: od udostępnionego tekstu edycji po regest i katalog archiwalny. Nie sugeruje się, że wszystkie oryginalne dokumenty zostały odczytane bezpośrednio. Data dokumentu podawana jest zasadniczo według kalendarza juliańskiego.</p></section>
